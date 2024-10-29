@@ -1,0 +1,3 @@
+/Users/ivangarsin/Downloads/rk1_info/cmake-build-debug/CMakeFiles/rk1_info.dir
+/Users/ivangarsin/Downloads/rk1_info/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ivangarsin/Downloads/rk1_info/cmake-build-debug/CMakeFiles/rebuild_cache.dir
