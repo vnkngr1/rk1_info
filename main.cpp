@@ -5,6 +5,7 @@
 #include "task5.h"
 #include "task6.h"
 #include "task7.h"
+#include "task8.h"
 
 int main() {
     task1();
@@ -14,4 +15,5 @@ int main() {
     task5();
     task6();
     task7();
+    task8();
 }

@@ -11,4 +11,5 @@ add_executable(rk1_info main.cpp
         task4.h
         task5.h
         task6.h
-        task7.h)
+        task7.h
+        task8.h)
