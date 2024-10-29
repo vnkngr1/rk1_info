@@ -28,6 +28,7 @@ void task8() {
     }
 
     std::cout << "Задание выполнено без ошибок" << std::endl;
+
 }
 
 #endif //TASK8_H
